@@ -5,26 +5,26 @@
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.mplabx.project.avr128da48-getting-started-with-gpio-mplab-mcc",
         "version": "1.0.0",
-        "displayName": "  ",
+        "displayName": "Getting Started with GPIO (General Purpose Input/Output)",
         "projectName": "avr128da48-getting-started-with-gpio-mplab-mcc",
-        "shortDescription": "",
+        "shortDescription": "This repository contains the MCC generated source code examples described in TB3229-Getting Started with General Purpose Input/Output (GPIO)",
         "ide": {
             "name": "MPLAB X",
-            "semverRange": ""
+            "semverRange": ">=5.40.0"
         },
         "compiler": [
 			{
-				"name": "XC8",
-				"semverRange": ""
+				"name": "AVR XC8",
+				"semverRange": "^2.30.0"
 			}
 		],
         "dfp": {
-            "name": "",
-            "semverRange": ""
+            "name": "AVR-Dx",
+            "semverRange": "1.4.75"
         },
         "configurator": {
-            "name": "",
-            "semverRange": ""
+            "name": "MCC",
+            "semverRange": "4.0.1"
         },
         "device": {
             "metaDataVersion": "1.0.0",
@@ -32,16 +32,16 @@
             "content": {
                 "metaDataVersion": "1.0.0",
                 "category": "com.microchip.device",
-                "name": "",
+                "name": "AVR128DA48",
                 "versionRange": "*"
             }
         },
-        "author": "",
+        "author": "Microchip",
         "subcategories": [
         ],
-        "peripherals": [
+        "peripherals": [ "GPIO"
         ],
-        "keywords": [
+        "keywords": [ "Getting Started", "Blinky", "Wake-up"
         ],
 		"additionalData": {
 			"longDescription": {
