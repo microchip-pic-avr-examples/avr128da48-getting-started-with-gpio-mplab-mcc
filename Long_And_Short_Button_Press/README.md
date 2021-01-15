@@ -1,5 +1,3 @@
-<!-- Please do not change this logo with link -->
-
 [![MCHP](./../images/microchip.png)](https://www.microchip.com)
 
 # Long and Short Button Press
@@ -10,8 +8,8 @@ This code example uses a GPIO pin configured as input to distinguish between a l
 
 More details and code examples on the AVR128DA48 can be found at the following links:
 
-- [TB3229 Getting Started with GPIO (General Purpose Input/Output)](http://ww1.microchip.com/downloads/en/Appnotes/90003229A.pdf)
-- [AVR128DA48 Product Page](https://www.microchip.com/wwwproducts/en/AVR128DA28)
+- [TB3229 - Getting Started with General Purpose Input/Output (GPIO)](https://ww1.microchip.com/downloads/en/Appnotes/Getting-Started-with-GPIO-DS90003229B.pdf)
+- [AVR128DA48 Product Page](https://www.microchip.com/wwwproducts/en/AVR128DA48)
 - [AVR128DA48 Code Examples on GitHub](https://github.com/microchip-pic-avr-examples?q=avr128da48)
 - [AVR128DA48 Project Examples in START](https://start.atmel.com/#examples/AVR128DA48CuriosityNano)
 
@@ -48,13 +46,13 @@ The following configurations must be made for this project:
 
 1.  Connect the board to the PC.
 
-2.  Open the Detect_Long_And_Short_Button_Press.X project in MPLAB® X IDE.
+2.  Open the Long_And_Short_Button_Press.X project in MPLAB® X IDE.
 
-3.  Set the Detect_Long_And_Short_Button_Press.X project as main project. Right click on the project in the **Projects** tab and click **Set as Main Project**.
+3.  Set the Long_And_Short_Button_Press.X project as main project. Right click on the project in the **Projects** tab and click **Set as Main Project**.
 
 <br><img src="../images/setmain.PNG" height="500">
 
-4.  Clean and build the Detect_Long_And_Short_Button_Press.X project. Right click on the **Detect_Long_And_Short_Button_Press.X** project and select **Clean and Build**.
+4.  Clean and build the Long_And_Short_Button_Press.X project. Right click on the **Long_And_Short_Button_Press.X** project and select **Clean and Build**.
 
 <br><img src="../images/cleanbuild.PNG" height="500">
 

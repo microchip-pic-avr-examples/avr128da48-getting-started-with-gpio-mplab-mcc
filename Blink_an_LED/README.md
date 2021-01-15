@@ -1,8 +1,6 @@
-<!-- Please do not change this logo with link -->
-
 [![MCHP](../images/microchip.png)](https://www.microchip.com)
 
-# Blinking an LED
+# Blink an LED
 
 This project shows how to blink an LED connected to a GPIO pin. The LED spends 500 ms in an ON state and 500 ms in an OFF state.
 
@@ -10,8 +8,8 @@ This project shows how to blink an LED connected to a GPIO pin. The LED spends 5
 
 More details and code examples on the AVR128DA48 can be found at the following links:
 
-- [TB3229 Getting Started with GPIO (General Purpose Input/Output)](http://ww1.microchip.com/downloads/en/Appnotes/90003229A.pdf)
-- [AVR128DA48 Product Page](https://www.microchip.com/wwwproducts/en/AVR128DA28)
+- [TB3229 - Getting Started with General Purpose Input/Output (GPIO)](https://ww1.microchip.com/downloads/en/Appnotes/Getting-Started-with-GPIO-DS90003229B.pdf)
+- [AVR128DA48 Product Page](https://www.microchip.com/wwwproducts/en/AVR128DA48)
 - [AVR128DA48 Code Examples on GitHub](https://github.com/microchip-pic-avr-examples?q=avr128da48)
 - [AVR128DA48 Project Examples in START](https://start.atmel.com/#examples/AVR128DA48CuriosityNano)
 
@@ -45,13 +43,13 @@ System clock: 3.33 MHz
 
 1.  Connect the board to the PC.
 
-2.  Open the LED_Toggle.X project in MPLAB® X.
+2.  Open the Blink_an_LED.X project in MPLAB® X.
 
-3.  Set the LED_Toggle.X project as main project. Right click on the project in the **Projects** tab and click **Set as Main Project**.
+3.  Set the Blink_an_LED.X project as main project. Right click on the project in the **Projects** tab and click **Set as Main Project**.
 
 <br><img src="../images/setmain.PNG" height="500">
 
-4.  Clean and build the LED_Toggle.X project. Right click on the **LED_Toggle.X** project and select **Clean and Build**.
+4.  Clean and build the Blink_an_LED.X project. Right click on the **Blink_an_LED.X** project and select **Clean and Build**.
 
 <br><img src="../images/cleanbuild.PNG"  height="500">
 
