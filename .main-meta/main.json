@@ -40,11 +40,11 @@
         "subcategories": [
             [
 				"Peripherals",
-				"GPIO"
+				"PORT"
             ]
         ],
         "peripherals":[
-			"GPIO"
+			"PORT"
         ],
         "keywords": [ "Getting Started", "Blink", "Wake-up"
         ],
