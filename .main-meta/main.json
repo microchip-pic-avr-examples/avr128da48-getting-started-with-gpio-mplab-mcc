@@ -4,7 +4,7 @@
     "content": {
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.mplabx.project.avr128da48-getting-started-with-gpio-mplab-mcc",
-        "version": "1.0.1",
+        "version": "1.0.2",
         "displayName": "Getting Started with GPIO (General Purpose Input/Output)",
         "projectName": "avr128da48-getting-started-with-gpio-mplab-mcc",
         "shortDescription": "This repository contains the MCC generated source code examples described in TB3229-Getting Started with General Purpose Input/Output (GPIO)",
@@ -38,10 +38,13 @@
         },
         "author": "Microchip",
         "subcategories": [
-            "Peripherals",
-            "GPIO"
+            [
+				"Peripherals",
+				"GPIO"
+            ]
         ],
-        "peripherals": [ "GPIO"
+        "peripherals":[
+			"GPIO"
         ],
         "keywords": [ "Getting Started", "Blink", "Wake-up"
         ],
