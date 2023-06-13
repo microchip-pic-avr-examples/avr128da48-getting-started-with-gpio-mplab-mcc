@@ -19,11 +19,13 @@ More details and code examples on the AVR128DA48 can be found at the following l
 
 ## Software Used
 
-- MPLAB® X IDE 5.40 or newer [(microchip.com/mplab/mplab-x-ide)](http://www.microchip.com/mplab/mplab-x-ide)
-- MPLAB® XC8 2.30 or a newer compiler [(microchip.com/mplab/compilers)](http://www.microchip.com/mplab/compilers)
-- MPLAB® Code Configurator (MCC) 4.0.1 or newer [(microchip.com/mplab/mplab-code-configurator)](https://www.microchip.com/mplab/mplab-code-configurator)
-- MPLAB® Code Configurator (MCC) Device Libraries 8-bit AVR® MCUs 2.5.0 or newer [(microchip.com/mplab/mplab-code-configurator)](https://www.microchip.com/mplab/mplab-code-configurator)
-- AVR-Dx 1.4.75 or newer Device Pack
+- [MPLAB® X IDE](http://www.microchip.com/mplab/mplab-x-ide) v6.10 or newer
+- [MPLAB® XC8](http://www.microchip.com/mplab/compilers) v2.41 or newer
+- [AVR-Dx Series Device Pack](https://packs.download.microchip.com/) v2.3.272 or newer
+- [MPLAB® Code Configurator](https://www.microchip.com/en-us/tools-resources/configure/mplab-code-configurator) v5.3.7 or newer
+- [MPLAB® Code Configurator Melody](https://www.microchip.com/en-us/tools-resources/configure/mplab-code-configurator/melody) v2.5.0 or newer
+- AVR Devices Library v4.7.0 or newer
+- Content Manager v4.2.6 or newer
 
 ## Hardware Used
 

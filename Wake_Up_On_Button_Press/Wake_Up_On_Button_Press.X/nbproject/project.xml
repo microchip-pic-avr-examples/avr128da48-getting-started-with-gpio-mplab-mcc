@@ -4,12 +4,8 @@
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/make-project/1">
             <name>Wake_Up_On_Button_Press</name>
-            <creation-uuid>e93f50a3-b168-45fe-a2f6-ff3bf5c357c6</creation-uuid>
+            <creation-uuid>a7b6ebeb-5ef7-46f6-8224-59d1ca9f0f08</creation-uuid>
             <make-project-type>0</make-project-type>
-            <c-extensions>c</c-extensions>
-            <cpp-extensions/>
-            <header-extensions>h</header-extensions>
-            <asminc-extensions/>
             <sourceEncoding>ISO-8859-1</sourceEncoding>
             <make-dep-projects/>
             <sourceRootList/>

@@ -4,18 +4,18 @@
     <configuration>
         <data xmlns="http://www.netbeans.org/ns/make-project/1">
             <name>Long_And_Short_Button_Press</name>
-            <creation-uuid>7cd4f9a2-d83f-44d8-9c6d-ac6cc9f15ec4</creation-uuid>
+            <creation-uuid>d9edc014-f9c5-4144-b580-f7ef34557d97</creation-uuid>
             <make-project-type>0</make-project-type>
-            <c-extensions>c</c-extensions>
-            <cpp-extensions/>
-            <header-extensions>h</header-extensions>
-            <asminc-extensions/>
             <sourceEncoding>ISO-8859-1</sourceEncoding>
             <make-dep-projects/>
             <sourceRootList/>
             <confList>
                 <confElem>
-                    <name>default</name>
+                    <name>free</name>
+                    <type>2</type>
+                </confElem>
+                <confElem>
+                    <name>pro</name>
                     <type>2</type>
                 </confElem>
             </confList>
