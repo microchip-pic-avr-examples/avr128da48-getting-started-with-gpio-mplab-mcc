@@ -20,7 +20,7 @@
 		],
         "dfp": {
             "name": "AVR-Dx",
-            "semverRange": "2.3.272"
+            "semverRange": "^2.3.272"
         },
         "configurator": {
             "name": "MCC",
@@ -37,17 +37,8 @@
             }
         },
         "author": "Alexandru - Ioan - Cristian Sabiuta",
-        "subcategories": [
-            [
-				"Peripherals",
-				"PORT"
-            ]
-        ],
-        "peripherals":[
-			"PORT"
-        ],
-        "keywords": [ "Getting Started", "Blink", "Wake-up"
-        ],
+        "peripherals":["GPIO"],
+        "keywords": ["Getting Started", "Interrupt", "Sleep"],
 		"additionalData": {
 			"longDescription": {
 				"metaDataVersion": "1.0.0",
