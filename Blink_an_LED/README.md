@@ -45,13 +45,13 @@ The following configurations must be made for this project:
 
 1.  Connect the board to the PC.
 
-2.  Open the Blink_an_LED.X project in MPLAB X.
+2.  Open the `Blink_an_LED.X` project in MPLAB X.
 
-3.  Set the Blink_an_LED.X project as main project. Right click the project in the **Projects** tab and click **Set as Main Project**.
+3.  Set the `Blink_an_LED.X` project as main project. Right click the project in the **Projects** tab and click Set as Main Project.
 
 <br><img src="../images/set_main_project.png" height="500">
 
-4.  Clean and build the project. Right click the Blink_an_LED.X project and select **Clean and Build**.
+4.  Clean and build the project. Right click the `Blink_an_LED.X` project and select Clean and Build.
 
 <br><img src="../images/clean_build.png" height="500">
 
@@ -63,7 +63,7 @@ The following configurations must be made for this project:
 
 <br><img src="../images/device.png" height="500">
 
-6.  Program the project to the board. Right click the project and click **Make and Program Device**.
+6.  Program the project to the board. Right click the project and click Make and Program Device.
 
 <br><img src="../images/make_program.png" height="500">
 

@@ -6,7 +6,7 @@ This repository contains examples of the MCC generated source code for General P
 
 - [<strong>Blink an LED:</strong>](Blink_an_LED) Shows how to toggle a pin connected to an LED
 - [<strong>Long and Short Button Press:</strong>](Long_And_Short_Button_Press) Uses a pin as input to distinguish between a long and short button press, defined by a delay threshold
-- [<strong>Wake-up On Button Press:</strong>](Wake_Up_On_Button_Press) Demonstrates the usage of interrupts and Sleep mode
+- [<strong>Wake-up on Button Press:</strong>](Wake_Up_On_Button_Press) Demonstrates the usage of interrupts and Sleep mode
 
 ## Related Documentation
 
